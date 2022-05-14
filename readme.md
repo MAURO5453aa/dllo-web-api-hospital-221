@@ -20,7 +20,7 @@
 - [Maestro] Empleados (Rol)
 - [Formulario] Turnos (Empleado, Consultorio )
 
-## 3. Hospitalización de pacientes
+## 3. Hospitalización de pacien.tes
 - [Maestro] Salas{
     "idHall":"integer"
     "Piso": "integer"
